@@ -23,7 +23,7 @@ Compact Python project that finds collision‑free, length‑efficient cubic‑s
 ## Quick start (Windows)
 1. Clone the repo and open a terminal in the project folder:
    ```bash
-     cd "c:\Users\LEGION 5\Desktop\S8\PSO_ROBOT\CODE"
+     cd PSO_ROBOT\CODE
 2. Install required packages:
    ```bash
      pip install numpy matplotlib streamlit
