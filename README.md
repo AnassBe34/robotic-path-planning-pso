@@ -21,9 +21,7 @@ Compact Python project that finds collision‑free, length‑efficient cubic‑s
   - `plots.py` — Plotting helpers (`plot_environment`, `plot_path`, `update_path`).
 
 ## Quick start (Windows)
-1. Clone the repo and open a terminal in the project folder:
-   ```bash
-     cd PSO_ROBOT\CODE
+1. Clone the repo and open a terminal in the project folder
 2. Install required packages:
    ```bash
      pip install numpy matplotlib streamlit
