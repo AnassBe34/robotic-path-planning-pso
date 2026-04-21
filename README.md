@@ -24,7 +24,7 @@ Compact Python project that finds collision‑free, length‑efficient cubic‑s
 1. Clone the repo and open a terminal in the project folder
 2. Install required packages:
    ```bash
-     pip install numpy matplotlib streamlit
+     pip install numpy matplotlib streamlit scipy
 4. Run the interactive Streamlit app:
     ```bash
     streamlit run streamlit.py
