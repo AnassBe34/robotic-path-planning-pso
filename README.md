@@ -1,4 +1,4 @@
-# Robotic Path Planning by PSO
+# Robotic Path Planning using PSO
 
 Compact Python project that finds collision‑free, length‑efficient cubic‑spline paths in 2D environments using Particle Swarm Optimization (PSO). Includes a matplotlib desktop demo and an interactive Streamlit UI for parameter tuning and visualization.
 
